@@ -2,7 +2,9 @@
 
 Depth comes in many forms: depth of data, depth of perspectives, depth of time, depth of space. It is a crucial word in the lexicon of place. Depth is also a crucial descriptor of the two overarching themes of this book: waters and maps. The possible definitions of depth overlap, with culture and space stretching out to create multi-disciplinary modes of profundity. In this essay, my goal is to explore the intersections between a deep mapping that takes into account the different modes of oceanic depth, and a blue humanities that moves beyond thalassology as the dominant mode of mapping deeply. Depth is, as Stacy Alaimo observes, an immensity, an excess, simply 'too much'. In her ruminations on the abyssal zones, Alaimo reflects on the writhing, animalistic protean *something* encountered in the deep.
 
-.ve-media wc:Pasted image 20241007220002.png right
+.ve-media wc:Schematic_representation_of_pelagic_and_benthic_zones.jpg right
+
+[Schematic Representation of the Pelagic and Benthic zones] (https://commons.wikimedia.org/wiki/File:Schematic_representation_of_pelagic_and_benthic_zones.jpg)
 
 > ..Derrida's ruminations are ... drenched in the language of the depths, as he describes the question of human and nonhuman subjectivity as "immense and abyssal," requiring that he wres­ tle with the "several tentacles" of philosophies that become, together, "a single living body at bottom." If we shift Derrida's ruminations on the "animal abyss" from an encounter with the gaze of a specific animal to the collective "composition" (in Bruno Latour's terms) of the vast abyssal zone and its surrounding territories, we discover the same sort of vertiginous recognition that there is, indeed, "being rather than nothing." But what does it mean for the abyssalbeing to be or become "too much"?[^1]
 
