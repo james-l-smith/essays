@@ -14,9 +14,17 @@ The oceans were never for humans to know, and it is a master trope of the blue h
 
 .ve-media wc:Hercules_rescuing_Hesione_from_a_sea-monster._Engraving._Wellcome_V0036065.jpg
 
-The monster waits in the abyss, in potential. The hackneyed myth that medieval maps contained the legend of 'hic sunt dracones' or 'here be dragons' is untrue, and yet monsters still appear in the margins. Headless and single footed men, dog headed peoples, serpents, giants. In the depths of the ocean, krakens and leviathans and wonders await. 
-.ve-media wc:Alexander_fighting_the_dog-headed_Cynocephali.jpg right 
-Oceanography has only revealed more of how marvelous and alien the depths of the ocean and the unknown places may be, how outside human life and thriving. Literature, film, and popular culture are replete with genre pieces that draw on this master trope of fear. Ludovica Montecchio has used the model of ==Medusa=={Q160730}, multifaceted metaphor for a multifaceted and plural abyssal vision:
+The monster waits in the abyss, in potential. The hackneyed myth that medieval maps contained the legend of 'hic sunt dracones' or 'here be dragons' is untrue, and yet monsters still appear in the margins. Headless and single footed men, dog headed peoples, serpents, giants. In the depths of the ocean, krakens and leviathans and wonders await. Oceanography has only revealed more of how marvelous and alien the depths of the ocean and the unknown places may be, how outside human life and thriving. Literature, film, and popular culture are replete with genre pieces that draw on this master trope of fear. 
+
+.ve-media grid
+    - wc:Alexander_fighting_the_dog-headed_Cynocephali.jpg  
+    - wc:Sea_Monster_Chet_Van_Duzer.jpg
+    - wc:Naturalistslibra25-p326a-kraken.jpg
+    - wc:Deep_sea.jpg
+    - wc:Luminous_Fish_of_the_Deep_Sea.jpg
+    - wc:Adriaen_Coenen's_Visboeck_-_KB_78_E_54_-_folios_265v_(left)_and_266r_(right).jpg
+
+Ludovica Montecchio has used the model of ==Medusa=={Q160730}, multifaceted metaphor for a multifaceted and plural abyssal vision:
 
 > Medusa’s dual stare will be a metaphor for the current deep sea explorations. Beautiful and delicate habitats and biodiversity are petrified and immobilized, isolated in time and places as pieces of resources that are disposable and ready to be extracted. This is the stony truth the Ocean floor is facing today, and in order to make sense of it, we need to look in the eyes of its truth. In the contemporary turmoil of acceleration, Medusa, daughter of deep oceanic parents, has forgotten her Chthonic roots. Her eyes see the truth, but by seeing it she petrifies it. Her gaze is what allows her to see the world, but prevents her from interacting with it. Yet, stones can be turned around in one’s hands.[^4]
 
