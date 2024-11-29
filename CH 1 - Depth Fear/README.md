@@ -2,7 +2,7 @@
 
 Depth comes in many forms: depth of data, depth of perspectives, depth of time, depth of space. It is a crucial word in the lexicon of place. Depth is also a crucial descriptor of the two overarching themes of this book: waters and maps. The possible definitions of depth overlap, with culture and space stretching out to create multi-disciplinary modes of profundity. In this essay, my goal is to explore the intersections between a deep mapping that takes into account the different modes of oceanic depth, and a blue humanities that moves beyond thalassology as the dominant mode of mapping deeply. Depth is, as ==Stacy Alaimo=={Q125145386} observes, an immensity, an excess, simply 'too much'. In her ruminations on the abyssal zones, Alaimo reflects on the writhing, animalistic protean *something* encountered in the deep.
 
-.ve-media wc:The_fauna_of_the_deep_sea_(1894)_(14576801340).jpg full width=60%
+.ve-media wc:The_fauna_of_the_deep_sea_(1894)_(14576801340).jpg full width=60% caption="Sydney John Hickson, The fauna of the deep sea (D. Appleton and Co., 1894)"
 
 > ... ==Derrida's=={Q130631} ruminations are ... drenched in the language of the depths, as he describes the question of human and nonhuman subjectivity as "immense and abyssal," requiring that he wres­ tle with the "several tentacles" of philosophies that become, together, "a single living body at bottom." If we shift Derrida's ruminations on the "animal abyss" from an encounter with the gaze of a specific animal to the collective "composition" (in Bruno Latour's terms) of the vast abyssal zone and its surrounding territories, we discover the same sort of vertiginous recognition that there is, indeed, "being rather than nothing." But what does it mean for the abyssalbeing to be or become "too much"?[^1]
 
@@ -16,16 +16,15 @@ The oceans were never for humans to know, and it is a master trope of the blue h
 
 The monster waits in the abyss, in potential. The hackneyed myth that medieval maps contained the legend of 'hic sunt dracones' or 'here be dragons' is untrue, and yet monsters still appear in the margins. Headless and single footed men, dog headed peoples, serpents, giants. In the depths of the ocean, krakens and leviathans and wonders await. Oceanography has only revealed more of how marvelous and alien the depths of the ocean and the unknown places may be, how outside human life and thriving. Literature, film, and popular culture are replete with genre pieces that draw on this master trope of fear. 
 
-.ve-media grid
+.ve-media cards
     - wc:Alexander_fighting_the_dog-headed_Cynocephali.jpg  
     - wc:Sea_Monster_Chet_Van_Duzer.jpg
     - wc:Naturalistslibra25-p326a-kraken.jpg
     - wc:Deep_sea.jpg
     - wc:Luminous_Fish_of_the_Deep_Sea.jpg
-    - wc:Adriaen_Coenen's_Visboeck_-_KB_78_E_54_-_folios_265v_(left)_and_266r_(right).jpg
+    - wc:Fish_and_ship_from_Aspidochelone_-_Danish_Royal_Library.jpg
 
 Ludovica Montecchio has used the model of ==Medusa=={Q160730}, multifaceted metaphor for a multifaceted and plural abyssal vision:
-
 > Medusa’s dual stare will be a metaphor for the current deep sea explorations. Beautiful and delicate habitats and biodiversity are petrified and immobilized, isolated in time and places as pieces of resources that are disposable and ready to be extracted. This is the stony truth the Ocean floor is facing today, and in order to make sense of it, we need to look in the eyes of its truth. In the contemporary turmoil of acceleration, Medusa, daughter of deep oceanic parents, has forgotten her Chthonic roots. Her eyes see the truth, but by seeing it she petrifies it. Her gaze is what allows her to see the world, but prevents her from interacting with it. Yet, stones can be turned around in one’s hands.[^4]
 
 The monster gnaws at us, promising that something will reach out in the dark, grab us, drag us under. In our minds the monster could be anything, it is the thing that shows us who we are by shaping the contours of what we fear. And yet, who is 'we'? Who created the monster that has populated the dark margins, lacunae and depths of the terraqueous world? Where does terror become possibility? The monster was birthed from the same place as the dog-headed people and giants. The leviathan represents a Western cultural terror, that the unfamiliar contains wonders and dangers in equal measure. Maps have always been contours of our hopes and fears, tracing the boundaries of the familiar and yet tempting and terrifying with their absences. What is missing is what is to be feared, in potential.  Deep maps even more so, for their scope and ambition and refusal to adhere to restrictions or orderly delimitations torment the quantitatively-minded. Just as ==Isaac Newton=={Q935} feared the vanity of tinkering on the shore when a great excess yawned, but the idea embedded in the quote as a popular culture phenomenon also explains much of the paradox inherent in deep blue knowledge. It has been understood as challenge: keep looking for the ocean because there is always more to learn. Without the god-fearing underpinning of the quote - a warning against vanity - the positivist quest has become a search for the entire ocean of knowledge, an anxiety that the unfamiliar lurks within this ocean and that humanity was not meant to apprehend it, and an optimism that this anxiety can be overcome. What is missing? Acceptance.
