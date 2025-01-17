@@ -33,7 +33,11 @@ The monster gnaws at us, promising that something will reach out in the dark, gr
 
 This book does not discount the possibility of learning more and of improving our scientific practices and sensing technologies. We cannot retreat from knowledge. The book simply asks a different question. What if we attempt to grow from the delving of the abyss, by befriending the monster, rather than by attempting to defeat it? We live in a world where it has never been more crucial to be comfortable with partial knowledge, to understand that we must place a limit on what once can know. Strive for more, but be comfortable with a reach that exceeds our grasp. We must learn to embrace the radical nature of this accommodation. 
 
-This question opens up many more. Can we become more by both knowing and knowing that we know nothing? Is dread at excess a forgotten dimension of the ocean's story and that of humanity? Can we creatively essay excess, merging science and the arts to experience more and gain more agency by embracing the Leviathan?
+This question opens up many more. Can we become more by both knowing and knowing that we know nothing? Is dread at excess a forgotten dimension of the ocean's story and that of humanity? 
+
+
+
+Can we creatively essay excess, merging science and the arts to experience more and gain more agency by embracing the Leviathan?
 
 [^1]: Stacy Alaimo, ‘Violet-Black’, in _Prismatic Ecology: Ecotheory beyond Green_, ed. by Lawrence Buell and Jeffrey Jerome Cohen (University of Minnesota Press, 2013), p. 234
 [^2]: Stacy Alaimo, ‘Violet-Black’, in _Prismatic Ecology: Ecotheory beyond Green_, ed. by Lawrence Buell and Jeffrey Jerome Cohen (University of Minnesota Press, 2013), p. 233
