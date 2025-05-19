@@ -4,6 +4,10 @@ Detailed knowledge of the shape of the seafloor is crucial to humankind. ==Bathy
 
 > Although scuba diving is more conventionally associated with scientific research or maritime industries, I see diving as a method of cognitive estrangement that makes visible the terrestrial biases that have calcified in the way that we figuratively speak about the world. On a basic level, diving provided access to underwater archives that I could not otherwise have reached.[^2]
 
+.ve-media cards
+    - wc:Diving_bell_noaa.jpg  
+    - wc:FMIB_49990_Diving_Bell.jpeg
+
 Technology mediates the ability to descend and the possibility of safely ascending, but also plunges the human mind into a zone of speculative estrangement. It is not possible to belong to this world with a surface-oriented mode of thinking. Considering the speculative terror of depth provides an ideal example. As Timothy Morton has described it, the non-human vastness of a ==hyperobject=={Q100982195} - exceeding what is knowable and existing beyond perception - makes for a relationship with a strange stranger, both strange and strange in the fact that it should be strange to us. Exploring this strangeness and interrogating its origin lies at the heart of an abstracted form of bathymetry, the descent into absence mediated by technology. Some things are so vast that it is not clear where they begin, where they end, and what they are for, or what they mean or will mean in the future:
 
 > Nonhuman beings strike a devastating blow against teleology, a blow detected by Darwin and celebrated by Marx, who wrote Darwin a fan letter for his opposition to ==teleology=={Q3243630}. The end of teleology is the end of the world. This end is precisely not an instant vaporization, but rather a lingering coexistence with strange strangers. For the end of the world is the end of endings, the end of telos, and the beginning of an uncertain, hesitating futurality.[^3]
